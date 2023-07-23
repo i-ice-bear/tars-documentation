@@ -10,7 +10,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: "https://github.com/i-ice-bear/tars-documentation",
   footer: {
-    text: "Documentation of the Tars. Desktop including how to operate it and many more.",
+    text: "LinkHive. Inc All rights reserved",
   },
 };
 
