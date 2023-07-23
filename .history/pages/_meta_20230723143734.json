@@ -4,13 +4,13 @@
   "advanced": "Advanced (A Folder)",
   "about": {
     "title": "About",
-    "type": "page",
-    "href":"https://github.com/i-ice-bear"
+    "type": "page"
+    "href":"https:/"
   },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://instagram.com/_anshu.18._",
+    "href": "https://twitter.com/shuding_",
     "newWindow": true
   }
 }

@@ -3,7 +3,7 @@ import { DocsThemeConfig } from "nextra-theme-docs";
 const config: DocsThemeConfig = {
   logo: <span>LinkHive Tars. Dev.</span>,
   project: {
-    link: "https://github.com/i-ice-bear/tars-documentation",
+    link: "https://github.com/i-ice-bear/",
   },
   chat: {
     link: "https://discord.com",
